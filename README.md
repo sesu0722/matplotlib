@@ -67,6 +67,9 @@ Create two summary statistics DataFrames:
 Review all the figures and tables that you generated in this assignment. Write at least three observations or inferences that can be made from the data. Include these observations at the top of your notebook.
 
 ## Final Analysis
-1. Across the ten drugs in this study, Capomulin and Ramicane yield the best results by effectivly reduceing the tumor volume over the course of 45 days.    
-2. 
-3. There is stong postive correlation between mouse weight and the average tumor volume, it will need further study to detrmine if the tumor volume increased because of weight increase. 
+
+1.Across the ten drugs in this study, Capomulin and Ramicane yield the best results by effectivly reduceing the tumor volume over the course of 45 days.    
+
+2.There is stong postive correlation between mouse weight and the average tumor volume, it will need further study to determine if weight increase contributes to tumor volume increased and drug effectiveness. 
+
+3.The dataset has mouse age from 2 to 21 months that could be a factor to drug effectiveness, further analysis by age group will help to clarify the impacts.
