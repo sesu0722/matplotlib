@@ -21,9 +21,9 @@ In the Pymaceuticals folder- there is a Data folder and Pymaceuticals_starter.ip
 
 Create two summary statistics DataFrames:
 
-    * For the first table, use the `groupby` method to generate the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
+1. For the first table, use the `groupby` method to generate the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
-    * For the second table, use the `agg` method to produce the same summary statistics table by using a single line of code.
+2. For the second table, use the `agg` method to produce the same summary statistics table by using a single line of code.
 
 ### Create Bar Charts and a Pie Charts
 
